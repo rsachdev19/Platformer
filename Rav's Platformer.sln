@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rav's Platformer", "Assembly-CSharp-firstpass.csproj", "{0C32EB74-060D-8FDE-7BF6-7115629C976D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rav's Platformer", "Assembly-CSharp.csproj", "{F8C08284-3710-CFBC-2916-E8D5BFB76D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rav's Platformer", "Assembly-CSharp-Editor-firstpass.csproj", "{51E9F366-E213-1A4E-493A-15CF3ED6C130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C32EB74-060D-8FDE-7BF6-7115629C976D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C32EB74-060D-8FDE-7BF6-7115629C976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C32EB74-060D-8FDE-7BF6-7115629C976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C32EB74-060D-8FDE-7BF6-7115629C976D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C08284-3710-CFBC-2916-E8D5BFB76D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C08284-3710-CFBC-2916-E8D5BFB76D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C08284-3710-CFBC-2916-E8D5BFB76D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C08284-3710-CFBC-2916-E8D5BFB76D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E9F366-E213-1A4E-493A-15CF3ED6C130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E9F366-E213-1A4E-493A-15CF3ED6C130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E9F366-E213-1A4E-493A-15CF3ED6C130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E9F366-E213-1A4E-493A-15CF3ED6C130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
